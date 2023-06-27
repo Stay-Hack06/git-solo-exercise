@@ -3,3 +3,4 @@
 2. How would you describe your perfect day? 
 3. When is your Golden Hour, when you are most productive?
 4. Can you describe your learning style?
+5. What is your Meyers-Briggs?
